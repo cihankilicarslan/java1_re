@@ -7,9 +7,7 @@ public class test2 {
         System.out.println("merhaba2");
         System.out.println("merhaba2");
         System.out.println("merhaba2");
-        System.out.println("merhaba2");
-        System.out.println("merhaba2");
-        System.out.println("merhaba2");
+
 
 
 
